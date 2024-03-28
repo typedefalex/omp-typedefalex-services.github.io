@@ -13475,8 +13475,8 @@ var stackAlloc = Module["stackAlloc"] = createExportWrapper("stackAlloc");
 /** @type {function(...*):?} */
 var ___cxa_is_pointer_type = Module["___cxa_is_pointer_type"] = createExportWrapper("__cxa_is_pointer_type");
 
-var ___start_em_js = Module['___start_em_js'] = 9129824;
-var ___stop_em_js = Module['___stop_em_js'] = 9130306;
+var ___start_em_js = Module['___start_em_js'] = 9145536;
+var ___stop_em_js = Module['___stop_em_js'] = 9146018;
 function invoke_ii(index,a1) {
   var sp = stackSave();
   try {
